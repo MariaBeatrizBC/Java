@@ -1,4 +1,4 @@
-package Vetor;
+package MaisVetor;
 /*Considere um vetor de 10 números inteiros positivos maiores que zero e um único número
 * inteiro, também positivo e maior que zero. Faça um programa para:
 * 		a. ler pelo teclado o vetor;

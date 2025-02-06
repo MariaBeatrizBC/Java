@@ -1,10 +1,10 @@
-/*
-8. Faça um método chamado MostraTabuadas e que recebe, por parâmetro, um valor inteiro N. 
+/*Faça um método chamado MostraTabuadas e que recebe, por parâmetro, um valor inteiro N. 
 Calcular e imprimir as tabuadas dos números de 1 até N, ou seja, se o usuário digitou o valor 3 
 deve imprimir a tabuada do 1, a tabuada do 2 e a tabuada do 3. Exibir as tabuadas, dentro do método, 
 considerando os cálculos de 1 a 10. Dessa forma,   método não deve retornar nada.
 
 */
+package ExerciciosAleatorios;
 import java.util.Scanner;
 
 public class Tabuada {

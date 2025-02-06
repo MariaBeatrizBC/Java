@@ -1,6 +1,7 @@
+package ExerciciosAleatorios;
 import java.util.Scanner;
 
-public class Prova01 {
+public class Aluno {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

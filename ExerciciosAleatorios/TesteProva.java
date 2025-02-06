@@ -3,7 +3,7 @@
 2 - ler uma matriz quadrada 4x4 e imprimir a diagonal principal e secundária usando for
 3 - ler um número e informar se ele é perfeito, se sim, imprimir a tabuada desse número, se não, calcular o palindromo dele.
 */
-
+package ExerciciosAleatorios;
 import java.util.Scanner;
 
 public class TesteProva {

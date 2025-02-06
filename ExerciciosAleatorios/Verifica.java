@@ -1,8 +1,7 @@
-/*
-1. Crie um programa que contenha um método denominado Verifica. O método Verifica recebe um parâmetro que é um 
+/*Crie um programa que contenha um método denominado Verifica. O método Verifica recebe um parâmetro que é um 
 valor inteiro e verifica se esse valor é par ou ímpar. Imprimir a mensagem dentro do método.
 */
-
+package ExerciciosAleatorios;
 import java.util.Scanner;
 
 public class Verifica {

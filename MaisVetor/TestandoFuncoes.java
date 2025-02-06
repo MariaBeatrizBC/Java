@@ -1,4 +1,4 @@
-package Vetor;
+package MaisVetor;
 
 public class TestandoFuncoes {
 

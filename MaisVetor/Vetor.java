@@ -1,4 +1,4 @@
-package Vetor;
+package MaisVetor;
 import java.util.Scanner;
 
 public class Vetor {

@@ -3,7 +3,7 @@
 
 Entrada
 A entrada contém um valor de ponto flutuante (dupla precisão), no caso, a variável raio. */
-
+package ExerciciosAleatorios;
 import java.util.Scanner;
 
 public class AreaCirculo {

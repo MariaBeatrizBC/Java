@@ -1,6 +1,5 @@
 package Matriz;
-/*
-10) Faça um programa para armazenar números inteiros em uma matriz quadrada de ordem 4, ou seja, 
+/*Faça um programa para armazenar números inteiros em uma matriz quadrada de ordem 4, ou seja, 
 uma matriz 4x4. Em seguida criar os seguintes métodos:
 - Método que recebe a matriz e verifica se a soma de todos os valores contidos na matriz é par;
 - Método que recebe a matriz  e a imprime; e 

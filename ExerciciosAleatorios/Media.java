@@ -1,12 +1,11 @@
-/*
-3. Crie um programa que possua um método chamado calculaMedia e que recebe as 2 notas de um 
+/* Crie um programa que possua um método chamado calculaMedia e que recebe as 2 notas de um 
 aluno e uma letra por parâmetro. 
 	Se a letra recebida for a letra ‘A’ o método deve calcular a média aritmética das notas 
 	do aluno, porém se a letra recebida for a ‘P’, o método deve calcular a média ponderada 
 	com pesos 7 e 3 para a primeira nota e a segunda nota, respectivamente. 
 	A média calculada deve retornar à função principal (main), sendo o valor da média exibido na main.
 */
-
+package ExerciciosAleatorios;
 import java.util.Scanner;
 
 public class Media {

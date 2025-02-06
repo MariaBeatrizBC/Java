@@ -1,9 +1,8 @@
-/*
-2. Crie um programa que lê dois números e envia esses números para um método chamado calculaSoma. 
+/*Crie um programa que lê dois números e envia esses números para um método chamado calculaSoma. 
 O método calculaSoma, após receber esses valores, deverá realizar uma soma  e 
 imprimir o resultado obtido dentro do método.
 */
-
+package ExerciciosAleatorios;
 import java.util.Scanner;
 
 

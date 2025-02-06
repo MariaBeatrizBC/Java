@@ -1,3 +1,4 @@
+package ExerciciosAleatorios;
 import java.util.Scanner;
 
 public class Palindromo 

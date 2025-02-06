@@ -1,6 +1,5 @@
-package Vetor;
-/*
-9) Faça um programa para armazenar 20 números reais em um vetor chamado Num. 
+package MaisVetor;
+/*Faça um programa para armazenar 20 números reais em um vetor chamado Num. 
 Em seguida, chamar um método denominado imprimirPos que recebe o vetor Num por parâmetro e 
 imprime apenas os números positivos contidos no vetor.
 

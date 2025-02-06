@@ -1,10 +1,11 @@
-/*4. Faça um programa que possua um método chamado Tempo que recebe por parâmetro o 
+/*Faça um programa que possua um método chamado Tempo que recebe por parâmetro o 
 tempo de duração de uma fábrica expressa em segundos. O método deve efetuar cálculos a fim de 
 imprimir a equivalência do tempo recebido em horas, minutos e segundos.
 	exemplo:  
 	se valor recebido pela função for 7265 segundos então a mesma deve imprimir:
 		7265 segundo(s) equivalem a 2 hora(s) , 1 minuto(s) e 5 segundo(s)
 */
+package ExerciciosAleatorios;
 import java.util.Scanner;
 
 public class Tempo {

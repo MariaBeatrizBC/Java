@@ -1,4 +1,3 @@
-
 /*Escreva um programa que calcule e retorne o valor da hipotenusa através do
 * método HIPOTENUSA. O método recebe o valor da base e da altura de um triângulo
 * Fórmulas: hipotenusa² = base² + altura²
@@ -6,6 +5,7 @@
 *    área = -----------------
 *                  2
 */
+package ExerciciosAleatorios;
 import java.util.Scanner;
 
 public class Hipotenusa {

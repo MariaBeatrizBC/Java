@@ -1,6 +1,5 @@
-package Vetor;
-/*
-7. Faça um programa que contenha um método chamado LeVetor. 
+package MaisVetor;
+/* Faça um programa que contenha um método chamado LeVetor. 
 Dentro do método permita a leitura de 10 valores inteiros, armazene-os em um vetor, 
 e imprime o maior e o menor deles.
 */
